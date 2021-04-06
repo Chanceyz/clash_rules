@@ -1,11 +1,11 @@
 payload:
-  ## 🐼 Microsoft
-  ## >> 傲维网
+  #  Microsoft
+  #  傲维网
   DOMAIN-SUFFIX,here.com
   DOMAIN-SUFFIX,here.net
   DOMAIN-SUFFIX,heremaps.cn
   DOMAIN-SUFFIX,ovi.com.cn
-  ## >> Azure
+  #  Azure
   DOMAIN-SUFFIX,azure
   DOMAIN-SUFFIX,azure-apim.net
   DOMAIN-SUFFIX,azure-dns.com
@@ -59,7 +59,7 @@ payload:
   DOMAIN-SUFFIX,windowsazure.com
   DOMAIN-SUFFIX,azure.microsoft.com
   DOMAIN-SUFFIX,azuremarketplace.microsoft.com
-  ## >> Bing
+  #  Bing
   DOMAIN-SUFFIX,bbing.com
   DOMAIN-SUFFIX,bibg.com
   DOMAIN-SUFFIX,biing.com
@@ -119,7 +119,7 @@ payload:
   DOMAIN-SUFFIX,cn.bing.com
   DOMAIN-SUFFIX,cn.bing.net
   DOMAIN-SUFFIX,ditu.live.com
-  ## >> Edge
+  #  Edge
   DOMAIN-SUFFIX,a-msedge.net
   DOMAIN-SUFFIX,c-msedge.net
   DOMAIN-SUFFIX,e-msedge.net
@@ -129,10 +129,10 @@ payload:
   DOMAIN-SUFFIX,microsoftedgeinsider.com
   DOMAIN-SUFFIX,msedge.net
   DOMAIN-SUFFIX,s-msedge.net
-  ## >> M12
+  #  M12
   DOMAIN-SUFFIX,femalefounderscomp.com
   DOMAIN-SUFFIX,m12.vc
-  ## >> Microsoft-dev
+  #  Microsoft-dev
   DOMAIN-SUFFIX,adaptivecards.io
   DOMAIN-SUFFIX,api-extractor.com
   DOMAIN-SUFFIX,apisof.net
@@ -183,7 +183,7 @@ payload:
   DOMAIN-SUFFIX,poshtestgallery.cloudapp.net
   DOMAIN-SUFFIX,psg-int-centralus.cloudapp.net
   DOMAIN-SUFFIX,psg-int-eastus.cloudapp.net
-  ## >> MSN
+  #  MSN
   DOMAIN-SUFFIX,microsoft-online.cn
   DOMAIN-SUFFIX,microsoft-online.com.cn
   DOMAIN-SUFFIX,microsoftnews.cc
@@ -210,7 +210,7 @@ payload:
   DOMAIN-SUFFIX,msnewskids.org
   DOMAIN-SUFFIX,msnkids.com
   DOMAIN-SUFFIX,winmp.cn
-  ## >> Office365
+  #  Office365
   DOMAIN-SUFFIX,o365cn.com
   DOMAIN-SUFFIX,o365files.cn
   DOMAIN-SUFFIX,o365weve-dev.com
@@ -221,7 +221,7 @@ payload:
   DOMAIN-SUFFIX,office.net
   DOMAIN-SUFFIX,office365.com
   DOMAIN-SUFFIX,officedev.cn
-  ## >> Onedrive
+  #  Onedrive
   DOMAIN-SUFFIX,1drv.com
   DOMAIN-SUFFIX,1drv.ms
   DOMAIN-SUFFIX,livefilestore.com
@@ -233,17 +233,17 @@ payload:
   DOMAIN-SUFFIX,onedrive.net
   DOMAIN-SUFFIX,onedrive.org
   DOMAIN-SUFFIX,storage.live.com
-  ## >> Skype
+  #  Skype
   DOMAIN-SUFFIX,skype.com
   DOMAIN-SUFFIX,skype.net
   DOMAIN-SUFFIX,skypeassets.com
   DOMAIN-SUFFIX,skypeassets.net
   DOMAIN-SUFFIX,skypeforbusiness.com
-  ## >> Sway
+  #  Sway
   DOMAIN-SUFFIX,sway-cdn.com
   DOMAIN-SUFFIX,sway-extensions.com
   DOMAIN-SUFFIX,sway.com
-  ## >> VisualStudio
+  #  VisualStudio
   DOMAIN-SUFFIX,visualstudio-staging.com
   DOMAIN-SUFFIX,visualstudio.co
   DOMAIN-SUFFIX,visualstudio.co.uk
@@ -251,13 +251,13 @@ payload:
   DOMAIN-SUFFIX,visualstudio.eu
   DOMAIN-SUFFIX,visualstudio.net
   DOMAIN-SUFFIX,vsassets.io
-  ## >> WindowsLive
+  #  WindowsLive
   DOMAIN-SUFFIX,live.cn
   DOMAIN-SUFFIX,live.com.akadns.net
   DOMAIN-SUFFIX,sclive.net
   DOMAIN-SUFFIX,windowslive.cn
   DOMAIN-SUFFIX,wlxrs.com
-  ## >> 微软小冰
+  #  微软小冰
   DOMAIN-SUFFIX,aicscience.com
   DOMAIN-SUFFIX,mmais.com.cn
   DOMAIN-SUFFIX,msminico.cn
@@ -267,11 +267,11 @@ payload:
   DOMAIN-SUFFIX,msxiaona.cn
   DOMAIN-SUFFIX,officeplus.cn
   DOMAIN-SUFFIX,renlifang.com
-  ## >> 微软小娜
+  #  微软小娜
   DOMAIN-SUFFIX,cortana.ai
   DOMAIN-SUFFIX,cortanaanalytics.com
   DOMAIN-SUFFIX,cortanaskills.com
-  ## >> Xbox
+  #  Xbox
   DOMAIN-SUFFIX,forzamotorsport.net
   DOMAIN-SUFFIX,forzaracingchampionship.com
   DOMAIN-SUFFIX,forzarc.com
@@ -300,17 +300,17 @@ payload:
   DOMAIN-SUFFIX,xboxservices.com
   DOMAIN-SUFFIX,xboxstudios.com
   DOMAIN-SUFFIX,xbx.lv
-  ## >> Mojang
+  #  Mojang
   DOMAIN-SUFFIX,callersbane.com
   DOMAIN-SUFFIX,minecraft.net
   DOMAIN-SUFFIX,minecraftshop.com
   DOMAIN-SUFFIX,mojang.com
-  ## >> Bethesda
+  #  Bethesda
   DOMAIN-SUFFIX,beth.games
   DOMAIN-SUFFIX,bethesda.net
   DOMAIN-SUFFIX,bethesdagamestudios.com
   DOMAIN-SUFFIX,bethsoft.com
-  ## > Others
+  #  Others
   DOMAIN-SUFFIX,Applicationinsights.io
   DOMAIN-SUFFIX,Applicationinsights.net
   DOMAIN-SUFFIX,aadrm.com
