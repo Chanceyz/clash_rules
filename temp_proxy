@@ -1,2 +1,6 @@
 proxies:
-    - {name: 🇭🇰 azhk-12-28, server: 40.83.103.196, port: 52790, type: vmess, uuid: 8b75b899-34f7-4f9b-e19a-adf33078837d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 40.83.103.196}}
+  - {name: 🇭🇰 HK游戏专线1-1, server: game.tcpbbr.net, port: 5228, type: vmess, uuid: 5255c98a-42ec-11ec-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 美國綜合1-1, server: us.tcpbbr.net, port: 5329, type: vmess, uuid: 5255c98a-42ec-11ec-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 HK游戏专线 2 1-1, server: game.tcpbbr.net, port: 5228, type: vmess, uuid: 5c7b33c6-6d83-11eb-b77b-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港WTT 1-1, server: wtt.comefromchinatown.com, port: 80, type: vmess, uuid: 5c7b33c6-6d83-11eb-b77b-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: t.me/vpnhat}, udp: true}
+  - {name: 🇭🇰 香港WTT 2 1-1, server: wtt.comefromchinatown.com, port: 80, type: vmess, uuid: 5255c98a-42ec-11ec-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: t.me/vpnhat}, udp: true}
