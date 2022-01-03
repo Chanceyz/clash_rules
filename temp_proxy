@@ -1,9 +1,8 @@
 proxies:
-  - {name: 🇭🇰 HK游戏专线1-1, server: game.tcpbbr.net, port: 5228, type: vmess, uuid: 5255c98a-42ec-11ec-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 美國綜合1-1, server: us.tcpbbr.net, port: 5329, type: vmess, uuid: 5255c98a-42ec-11ec-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 HK游戏专线 2 1-1, server: game.tcpbbr.net, port: 5228, type: vmess, uuid: 5c7b33c6-6d83-11eb-b77b-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港WTT 1-1, server: wtt.comefromchinatown.com, port: 80, type: vmess, uuid: 5c7b33c6-6d83-11eb-b77b-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: t.me/vpnhat}, udp: true}
-  - {name: 🇭🇰 香港WTT 2 1-1, server: wtt.comefromchinatown.com, port: 80, type: vmess, uuid: 5255c98a-42ec-11ec-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: t.me/vpnhat}, udp: true}
   - {name: 🇭🇰 香港负载均衡 1-1, server: shusacu.proconcn.xyz, port: 561, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 19531:781150, obfs-param: "", udp: true}
   - {name: 🇭🇰 自研加速隧道香港 1-1, server: shusacu.proconcn.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 19531:781150, obfs-param: "", udp: true}
   - {name: 🇭🇰 香港自研加速隧道2 1-1, server: shcu002online.proconcn.xyz, port: 562, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 19531:781150, obfs-param: "", udp: true}
+  - {name: 1-3全球直连①-TikTok, server: s1.upyun.online, port: 12340, type: trojan, password: 4809af3e-b8f2-4f07-9cfb-79d0a7bb1219, sni: free.upyun.online, skip-cert-verify: false}
+  - {name: 1-3全球直连②-TikTok, server: s2.upyun.online, port: 12340, type: trojan, password: 4809af3e-b8f2-4f07-9cfb-79d0a7bb1219, sni: free.upyun.online, skip-cert-verify: false}
+  - {name: 1-3全球直连③-TikTok, server: s3.upyun.online, port: 12340, type: trojan, password: 4809af3e-b8f2-4f07-9cfb-79d0a7bb1219, sni: free.upyun.online, skip-cert-verify: false}
+  - {name: 1-3全球直连④-TikTok, server: s4.upyun.online, port: 12340, type: trojan, password: 4809af3e-b8f2-4f07-9cfb-79d0a7bb1219, sni: free.upyun.online, skip-cert-verify: false}
