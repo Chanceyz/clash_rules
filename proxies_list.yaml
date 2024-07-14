@@ -5,7 +5,7 @@ proxies:
   peers:
     - server: 188.114.96.211
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -19,7 +19,7 @@ proxies:
   peers:
     - server: 188.114.96.119
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -33,7 +33,7 @@ proxies:
   peers:
     - server: 188.114.97.24
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -47,7 +47,7 @@ proxies:
   peers:
     - server: 188.114.97.110
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -61,7 +61,7 @@ proxies:
   peers:
     - server: 162.159.195.251
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -75,7 +75,7 @@ proxies:
   peers:
     - server: 162.159.192.172
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -89,7 +89,7 @@ proxies:
   peers:
     - server: 188.114.99.196
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -103,7 +103,7 @@ proxies:
   peers:
     - server: 188.114.96.35
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -117,7 +117,7 @@ proxies:
   peers:
     - server: 162.159.195.104
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -131,7 +131,7 @@ proxies:
   peers:
     - server: 162.159.195.210
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -145,7 +145,7 @@ proxies:
   peers:
     - server: 162.159.192.55
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -159,7 +159,7 @@ proxies:
   peers:
     - server: 188.114.99.87
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -173,7 +173,7 @@ proxies:
   peers:
     - server: 188.114.99.196
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -187,7 +187,7 @@ proxies:
   peers:
     - server: 162.159.195.200
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -201,7 +201,7 @@ proxies:
   peers:
     - server: 188.114.99.204
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -215,7 +215,7 @@ proxies:
   peers:
     - server: 188.114.97.12
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -229,7 +229,7 @@ proxies:
   peers:
     - server: 162.159.192.172
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -243,7 +243,7 @@ proxies:
   peers:
     - server: 188.114.96.126
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -257,7 +257,7 @@ proxies:
   peers:
     - server: 162.159.192.128
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -271,7 +271,7 @@ proxies:
   peers:
     - server: 162.159.195.218
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -285,7 +285,7 @@ proxies:
   peers:
     - server: 188.114.96.217
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -299,7 +299,7 @@ proxies:
   peers:
     - server: 188.114.97.152
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -313,7 +313,7 @@ proxies:
   peers:
     - server: 162.159.192.222
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -327,7 +327,7 @@ proxies:
   peers:
     - server: 162.159.192.179
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -341,7 +341,7 @@ proxies:
   peers:
     - server: 188.114.99.49
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -355,7 +355,7 @@ proxies:
   peers:
     - server: 188.114.99.184
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -369,7 +369,7 @@ proxies:
   peers:
     - server: 162.159.195.80
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -383,7 +383,7 @@ proxies:
   peers:
     - server: 188.114.99.81
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -397,7 +397,7 @@ proxies:
   peers:
     - server: 162.159.192.179
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -411,7 +411,7 @@ proxies:
   peers:
     - server: 188.114.99.56
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -425,7 +425,7 @@ proxies:
   peers:
     - server: 162.159.195.251
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -439,7 +439,7 @@ proxies:
   peers:
     - server: 188.114.99.49
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -453,7 +453,7 @@ proxies:
   peers:
     - server: 162.159.195.151
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -467,7 +467,7 @@ proxies:
   peers:
     - server: 162.159.195.151
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -481,7 +481,7 @@ proxies:
   peers:
     - server: 188.114.98.54
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -495,7 +495,7 @@ proxies:
   peers:
     - server: 188.114.98.129
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -509,7 +509,7 @@ proxies:
   peers:
     - server: 162.159.195.67
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -523,7 +523,7 @@ proxies:
   peers:
     - server: 188.114.98.8
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -537,7 +537,7 @@ proxies:
   peers:
     - server: 162.159.192.44
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -551,7 +551,7 @@ proxies:
   peers:
     - server: 188.114.97.110
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -565,7 +565,7 @@ proxies:
   peers:
     - server: 188.114.99.81
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -579,7 +579,7 @@ proxies:
   peers:
     - server: 188.114.98.54
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -593,7 +593,7 @@ proxies:
   peers:
     - server: 188.114.98.248
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -607,7 +607,7 @@ proxies:
   peers:
     - server: 188.114.97.245
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -621,7 +621,7 @@ proxies:
   peers:
     - server: 188.114.98.173
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -635,7 +635,7 @@ proxies:
   peers:
     - server: 188.114.99.117
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -649,7 +649,7 @@ proxies:
   peers:
     - server: 188.114.98.8
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -663,7 +663,7 @@ proxies:
   peers:
     - server: 162.159.195.197
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -677,7 +677,7 @@ proxies:
   peers:
     - server: 188.114.96.111
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -691,7 +691,7 @@ proxies:
   peers:
     - server: 188.114.97.161
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -705,7 +705,7 @@ proxies:
   peers:
     - server: 188.114.96.220
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -719,7 +719,7 @@ proxies:
   peers:
     - server: 188.114.96.164
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -733,7 +733,7 @@ proxies:
   peers:
     - server: 188.114.97.205
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -747,7 +747,7 @@ proxies:
   peers:
     - server: 188.114.97.24
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -761,7 +761,7 @@ proxies:
   peers:
     - server: 188.114.98.137
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -775,7 +775,7 @@ proxies:
   peers:
     - server: 188.114.99.87
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -789,7 +789,7 @@ proxies:
   peers:
     - server: 188.114.99.117
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -803,7 +803,7 @@ proxies:
   peers:
     - server: 188.114.97.175
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -817,7 +817,7 @@ proxies:
   peers:
     - server: 162.159.195.197
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -831,7 +831,7 @@ proxies:
   peers:
     - server: 162.159.192.222
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -845,7 +845,7 @@ proxies:
   peers:
     - server: 162.159.195.67
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -859,7 +859,7 @@ proxies:
   peers:
     - server: 162.159.192.159
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -873,7 +873,7 @@ proxies:
   peers:
     - server: 188.114.97.12
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -887,7 +887,7 @@ proxies:
   peers:
     - server: 188.114.96.61
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -901,7 +901,7 @@ proxies:
   peers:
     - server: 188.114.96.126
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -915,7 +915,7 @@ proxies:
   peers:
     - server: 162.159.195.218
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -929,7 +929,7 @@ proxies:
   peers:
     - server: 188.114.96.55
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -943,7 +943,7 @@ proxies:
   peers:
     - server: 188.114.96.111
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -957,7 +957,7 @@ proxies:
   peers:
     - server: 188.114.97.205
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -971,7 +971,7 @@ proxies:
   peers:
     - server: 188.114.97.175
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -985,7 +985,7 @@ proxies:
   peers:
     - server: 162.159.195.210
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -999,7 +999,7 @@ proxies:
   peers:
     - server: 188.114.98.173
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1013,7 +1013,7 @@ proxies:
   peers:
     - server: 188.114.98.129
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1027,7 +1027,7 @@ proxies:
   peers:
     - server: 162.159.192.54
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1041,7 +1041,7 @@ proxies:
   peers:
     - server: 188.114.99.204
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1055,7 +1055,7 @@ proxies:
   peers:
     - server: 188.114.97.203
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1069,7 +1069,7 @@ proxies:
   peers:
     - server: 188.114.96.220
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1083,7 +1083,7 @@ proxies:
   peers:
     - server: 162.159.192.128
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1097,7 +1097,7 @@ proxies:
   peers:
     - server: 188.114.96.119
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1111,7 +1111,7 @@ proxies:
   peers:
     - server: 162.159.195.240
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1125,7 +1125,7 @@ proxies:
   peers:
     - server: 188.114.98.115
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1139,7 +1139,7 @@ proxies:
   peers:
     - server: 188.114.99.248
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1153,7 +1153,7 @@ proxies:
   peers:
     - server: 188.114.99.248
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1167,7 +1167,7 @@ proxies:
   peers:
     - server: 188.114.99.56
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1181,7 +1181,7 @@ proxies:
   peers:
     - server: 162.159.192.159
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1195,7 +1195,7 @@ proxies:
   peers:
     - server: 162.159.195.80
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1209,7 +1209,7 @@ proxies:
   peers:
     - server: 162.159.195.240
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1223,7 +1223,7 @@ proxies:
   peers:
     - server: 188.114.99.149
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1237,7 +1237,7 @@ proxies:
   peers:
     - server: 188.114.96.217
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1251,7 +1251,7 @@ proxies:
   peers:
     - server: 188.114.98.238
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1265,7 +1265,7 @@ proxies:
   peers:
     - server: 188.114.97.203
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1279,7 +1279,7 @@ proxies:
   peers:
     - server: 188.114.97.83
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1293,7 +1293,7 @@ proxies:
   peers:
     - server: 188.114.99.184
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1307,7 +1307,7 @@ proxies:
   peers:
     - server: 162.159.192.55
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1321,7 +1321,7 @@ proxies:
   peers:
     - server: 188.114.96.211
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1335,7 +1335,7 @@ proxies:
   peers:
     - server: 188.114.98.115
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1349,7 +1349,7 @@ proxies:
   peers:
     - server: 188.114.98.137
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1363,7 +1363,7 @@ proxies:
   peers:
     - server: 162.159.195.200
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1377,7 +1377,7 @@ proxies:
   peers:
     - server: 162.159.192.42
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1391,7 +1391,7 @@ proxies:
   peers:
     - server: 188.114.98.238
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1405,7 +1405,7 @@ proxies:
   peers:
     - server: 188.114.99.149
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1419,7 +1419,7 @@ proxies:
   peers:
     - server: 162.159.192.42
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1433,7 +1433,7 @@ proxies:
   peers:
     - server: 162.159.192.54
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1447,7 +1447,7 @@ proxies:
   peers:
     - server: 188.114.96.55
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1461,7 +1461,7 @@ proxies:
   peers:
     - server: 188.114.96.61
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1475,7 +1475,7 @@ proxies:
   peers:
     - server: 162.159.192.200
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1489,7 +1489,7 @@ proxies:
   peers:
     - server: 188.114.98.192
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1503,7 +1503,7 @@ proxies:
   peers:
     - server: 188.114.98.203
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1517,7 +1517,7 @@ proxies:
   peers:
     - server: 162.159.192.200
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1531,7 +1531,7 @@ proxies:
   peers:
     - server: 188.114.97.245
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1545,7 +1545,7 @@ proxies:
   peers:
     - server: 188.114.98.248
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1559,7 +1559,7 @@ proxies:
   peers:
     - server: 188.114.97.161
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1573,7 +1573,7 @@ proxies:
   peers:
     - server: 188.114.96.35
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1587,7 +1587,7 @@ proxies:
   peers:
     - server: 188.114.97.152
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1601,7 +1601,7 @@ proxies:
   peers:
     - server: 188.114.97.83
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1615,7 +1615,7 @@ proxies:
   peers:
     - server: 162.159.195.104
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1629,7 +1629,7 @@ proxies:
   peers:
     - server: 188.114.96.164
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1643,7 +1643,7 @@ proxies:
   peers:
     - server: 162.159.192.44
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1657,7 +1657,7 @@ proxies:
   peers:
     - server: 188.114.98.192
       port: 8319
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
@@ -1671,7 +1671,7 @@ proxies:
   peers:
     - server: 188.114.98.203
       port: 8886
-      ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+      ip: 172.16.0.2/32
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
