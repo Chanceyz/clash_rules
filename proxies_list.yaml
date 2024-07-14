@@ -9,7 +9,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -23,7 +23,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -37,7 +37,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -51,7 +51,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -65,7 +65,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -79,7 +79,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -93,7 +93,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -107,7 +107,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -121,7 +121,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -135,7 +135,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -149,7 +149,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -163,7 +163,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -177,7 +177,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -191,7 +191,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -205,7 +205,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -219,7 +219,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -233,7 +233,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -247,7 +247,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -261,7 +261,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -275,7 +275,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -289,7 +289,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -303,7 +303,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -317,7 +317,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -331,7 +331,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -345,7 +345,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -359,7 +359,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -373,7 +373,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -387,7 +387,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -401,7 +401,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -415,7 +415,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -429,7 +429,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -443,7 +443,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -457,7 +457,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -471,7 +471,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -485,7 +485,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -499,7 +499,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -513,7 +513,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -527,7 +527,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -541,7 +541,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -555,7 +555,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -569,7 +569,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -583,7 +583,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -597,7 +597,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -611,7 +611,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -625,7 +625,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -639,7 +639,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -653,7 +653,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -667,7 +667,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -681,7 +681,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -695,7 +695,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -709,7 +709,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -723,7 +723,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -737,7 +737,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -751,7 +751,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -765,7 +765,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -779,7 +779,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -793,7 +793,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -807,7 +807,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -821,7 +821,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -835,7 +835,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -849,7 +849,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -863,7 +863,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -877,7 +877,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -891,7 +891,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -905,7 +905,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -919,7 +919,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -933,7 +933,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -947,7 +947,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -961,7 +961,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -975,7 +975,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -989,7 +989,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1003,7 +1003,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1017,7 +1017,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1031,7 +1031,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1045,7 +1045,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1059,7 +1059,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1073,7 +1073,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1087,7 +1087,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1101,7 +1101,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1115,7 +1115,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1129,7 +1129,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1143,7 +1143,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1157,7 +1157,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1171,7 +1171,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1185,7 +1185,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1199,7 +1199,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1213,7 +1213,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1227,7 +1227,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1241,7 +1241,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1255,7 +1255,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1269,7 +1269,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1283,7 +1283,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1297,7 +1297,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1311,7 +1311,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1325,7 +1325,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1339,7 +1339,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1353,7 +1353,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1367,7 +1367,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1381,7 +1381,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1395,7 +1395,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1409,7 +1409,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1423,7 +1423,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1437,7 +1437,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1451,7 +1451,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1465,7 +1465,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1479,7 +1479,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1493,7 +1493,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1507,7 +1507,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1521,7 +1521,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1535,7 +1535,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1549,7 +1549,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1563,7 +1563,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1577,7 +1577,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1591,7 +1591,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1605,7 +1605,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1619,7 +1619,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1633,7 +1633,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1647,7 +1647,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1661,7 +1661,7 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
 
 
@@ -1675,5 +1675,5 @@ proxies:
       public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
       allowed-ips: ['0.0.0.0/0']     
   udp: true
-  mtu: 1280
+  
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
